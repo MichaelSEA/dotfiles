@@ -3,3 +3,5 @@
 [user]
 	name = Michael Murray
 	email = michael@planetmurray.org
+[credential]
+	helper = osxkeychain
